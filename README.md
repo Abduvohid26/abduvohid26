@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduvohid26&label=Profile%20views&color=0e75b6&style=flat" alt="abduvohid26" /> </p>
 
-- 📝 I regularly write articles on [AbdujalilovPy](AbdujalilovPy)
-
-- 📫 How to reach me **@abujalilov2629@gmail.com**
+- 📫 How to reach me **abdujalilov2629@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
